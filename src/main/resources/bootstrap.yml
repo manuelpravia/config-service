@@ -6,8 +6,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/manuelpravia/config-repository.git
+          uri: https://github.com/manuelpravia/properties-repository.git
           search-paths: /
-          default-label: "main"
+          default-label: "bodgen"
 
 
